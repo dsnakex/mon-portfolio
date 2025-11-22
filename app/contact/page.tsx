@@ -10,8 +10,8 @@ const contactInfo = [
   {
     icon: Mail,
     label: 'Email',
-    value: 'votre.email@example.com',
-    href: 'mailto:votre.email@example.com',
+    value: 'dpascal0@gmail.com',
+    href: 'mailto:dpascal0@gmail.com',
   },
   {
     icon: Linkedin,
@@ -22,8 +22,8 @@ const contactInfo = [
   {
     icon: Github,
     label: 'GitHub',
-    value: 'github.com/votre-username',
-    href: 'https://github.com/votre-username',
+    value: 'github.com/dsnakex/',
+    href: 'https://github.com/dsnakex/',
   },
 ];
 
@@ -40,7 +40,7 @@ export default function ContactPage() {
     const body = encodeURIComponent(
       `Nom: ${formData.name}\nEmail: ${formData.email}\n\nMessage:\n${formData.message}`
     );
-    window.location.href = `mailto:votre.email@example.com?subject=${subject}&body=${body}`;
+    window.location.href = `mailto:dpascal0@gmail.com?subject=${subject}&body=${body}`;
   };
 
   const handleChange = (

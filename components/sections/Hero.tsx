@@ -47,7 +47,7 @@ export default function Hero() {
           {/* Liens sociaux */}
           <div className="flex items-center justify-center gap-6">
             <a
-              href="https://github.com/votre-username"
+              href="https://github.com/dsnakex/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-600 dark:text-gray-400 hover:text-primary-500 dark:hover:text-primary-400 transition-colors"

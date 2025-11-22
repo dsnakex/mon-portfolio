@@ -4,8 +4,8 @@ import Navbar from "@/components/ui/Navbar";
 import Footer from "@/components/ui/Footer";
 
 export const metadata: Metadata = {
-  title: "Votre Nom - Développeur Full-Stack",
-  description: "Portfolio de développeur passionné par la création d'applications éducatives et innovantes",
+  title: "Pascal Dao - Développeur In Progress",
+  description: "Portfolio d'un développeur passionné par la création d'applications éducatives et innovantes",
   keywords: ["développeur", "portfolio", "Next.js", "React", "Python"],
 };
 

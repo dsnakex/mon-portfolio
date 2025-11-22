@@ -41,8 +41,8 @@ export const projects: Project[] = [
     status: 'completed',
     category: 'education',
     image: '/projects/mathcopain/hero.png',
-    demoUrl: 'https://votre-demo-mathcopain.com',
-    githubUrl: 'https://github.com/votre-username/mathcopain',
+    demoUrl: 'https://mathcopain-v6.streamlit.app/',
+    githubUrl: 'https://github.com/dsnakex/MathCopain_v6.2',
     featured: true,
   },
 ];

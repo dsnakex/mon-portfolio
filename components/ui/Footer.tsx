@@ -27,7 +27,7 @@ export default function Footer() {
         <div className="flex flex-col md:flex-row items-center justify-between gap-6">
           {/* Copyright */}
           <p className="text-gray-600 dark:text-gray-400 text-sm">
-            © {currentYear} Votre Nom. Tous droits réservés.
+            © {2025} Pascal Dao. Tous droits réservés.
           </p>
 
           {/* Social Links */}

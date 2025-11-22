@@ -39,7 +39,7 @@ export default function Navbar() {
             href="/"
             className="text-xl font-bold text-primary-500 hover:text-primary-600 transition-colors"
           >
-            VotreNom
+            Pascal Dao
           </Link>
 
           {/* Desktop Navigation */}
